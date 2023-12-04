@@ -2,7 +2,7 @@ import scrapy
 
 
 class KoraSpider(scrapy.Spider):
-    date = "10/20/2023"
+    date = "10/20/2023"  ###change date to get the match u want
     name = "kora"
     allowed_domains = ["www.yallakora.com"]
     start_urls = [
