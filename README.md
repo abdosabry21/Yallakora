@@ -2,7 +2,7 @@
 
 ## About 
 
-spider built with [scrapy](https://scrapy.org/) , It gives you information about the matches on any day you want ,it take the info from [Yallakora](https://www.yallakora.com/match-center) 
+spider built with [scrapy](https://scrapy.org/) to gives you information about the matches on any day you want ,it take the info from [Yallakora](https://www.yallakora.com/match-center) 
 
 
 
